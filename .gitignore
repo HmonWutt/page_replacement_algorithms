@@ -1,1 +1,5 @@
-.ideat rm -r
+.ideat rm -r .idea/
+  *.iml
+  out/
+  *.class
+*.iml
